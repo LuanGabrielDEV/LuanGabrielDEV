@@ -1,4 +1,5 @@
-# {Luan Gabriel Dantas}
+# [Luan Gabriel]
+
 <img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="60%" />
 
 - 📚 Software Analysis and Development Student - SENAC PE
