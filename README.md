@@ -1,7 +1,7 @@
 # {Luan Gabriel Dantas}
 <img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="60%" />
 
-- 📚 Systems Analysis and Development Student - SENAC PE
+- 📚 Software Analysis and Development Student - SENAC PE
 - 👀 I’m interested in Soccer, Cybersecurity and Red Read Redemption 2 
 - 🌱 I’m currently learning JavaScript, MySQL, UI/UX, Cybersecurity
 - 📫 How to reach me: gabrielludantasdev@gmail.com
