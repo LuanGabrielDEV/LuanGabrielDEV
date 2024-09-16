@@ -1,6 +1,6 @@
 # [Luan Gabriel] <img src="https://media.tenor.com/TVdvv_3wKY8AAAAj/glorp-bouncing-slime.gif" width="35px">
 
-<img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="60%" />
+<img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="100%" />
 
 - 📚 Software Analysis and Development Student - SENAC PE
 - 👀 I’m interested in Soccer, Cybersecurity and Red Read Redemption 2 
