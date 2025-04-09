@@ -4,8 +4,8 @@
 
 - 📚 Software Analysis and Development Student - SENAC PE
 - 👀 I’m interested in Soccer, Cybersecurity and Red Read Redemption 2 
-- 🌱 I’m currently learning JavaScript, React.js, Java, PostgreSQL, UI/UX, Cybersecurity
-- 📫 How to reach me: gabrielludantasdev@gmail.com
+- 🌱 I’m currently learning Java, SpringBoot, PostgreSQL, UI/UX, WordPress, Cybersecurity
+- 📫 How to reach me: luangabriel.d.d.l.c@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
