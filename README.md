@@ -1,10 +1,9 @@
 <h1 align="center">
   Olá, eu sou Luan Gabriel 👋
-  <img src="https://media.tenor.com/TVdvv_3wKY8AAAAj/glorp-bouncing-slime.gif" width="35px"/>
 </h1>
 
 <p align="center">
-  <img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="100%"/>
+  <img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="60%"/>
 </p>
 
 ---
