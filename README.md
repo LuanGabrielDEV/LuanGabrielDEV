@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="60%"/>
+  <img src="https://cdn.pixilart.com/photos/large/ed1e66afa55e803.gif" width="80%"/>
 </p>
 
 ---
