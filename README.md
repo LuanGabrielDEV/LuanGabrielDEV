@@ -1,5 +1,7 @@
 <h1 align="center">
-  Olá! Eu sou Luan Gabriel 👋
+  
+[![Typing SVG](https://readme-typing-svg.demolab.cofont=Fira+Code&pause=1000&color=97DFFC&center=true&vCenter=true&width=435&lines=I'm+Luan+Gabriel%2C+Software+Developer;+React%2C+Next.js%2C+Python+and+More!;Cybersecurity+%2B+IA+Enthusiast)](https://git.io/typing-svg)
+
 </h1>
 
 <p align="center">
